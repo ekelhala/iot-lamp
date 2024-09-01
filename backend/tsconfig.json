@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "removeComments": true,
+        "outDir": "./build",
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": ["src/*"]
+}
